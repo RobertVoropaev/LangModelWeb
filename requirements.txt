@@ -1,0 +1,4 @@
+Flask
+Flask-WTF==1.0.0
+fastai
+logging
